@@ -3,6 +3,8 @@
 Chart a comma separated list of numbers on a line-graph that can be
 viewed in a web browser.
 
+![chart](https://cloud.githubusercontent.com/assets/10602/20244560/99a7e1e4-a9ca-11e6-809f-0370491106ad.png)
+
 [![Build status](https://travis-ci.org/watson/chart-csv.svg?branch=master)](https://travis-ci.org/watson/chart-csv)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
