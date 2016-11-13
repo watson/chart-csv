@@ -1,0 +1,36 @@
+{
+  "name": "chart-csv",
+  "version": "0.0.0",
+  "description": "Chart a comma separated list of numbers on a line-graph that can be viewed in a web browser",
+  "bin": "index.js",
+  "dependencies": {
+    "multistream": "^2.1.0",
+    "pump": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^8.5.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "chart",
+    "graph",
+    "plot",
+    "csv",
+    "html",
+    "convert",
+    "converter",
+    "line"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/chart-csv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/watson/chart-csv/issues"
+  },
+  "homepage": "https://github.com/watson/chart-csv#readme"
+}
