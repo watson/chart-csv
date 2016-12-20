@@ -1,6 +1,6 @@
 {
   "name": "chart-csv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Chart a comma separated list of numbers on a line-graph that can be viewed in a web browser",
   "bin": "index.js",
   "dependencies": {
@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/watson/chart-csv#readme",
   "coordinates": [
-    55.6810324,
-    12.564359
+    55.777593447569146,
+    12.590047996295198
   ]
 }
