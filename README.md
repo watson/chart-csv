@@ -13,7 +13,7 @@ viewed in a web browser.
 Install `chart-csv` globally:
 
 ```
-npm install chart-csv  -g
+npm install chart-csv -g
 ```
 
 ## Usage
